@@ -8,7 +8,7 @@ export default {
     title: 'sveltest 文档',
      lang: 'zh-CN',
     description: '编写测试脚本变得容易、快捷，方便创建更为复杂的测试',
-    base: "/",
+    base: "/docs/",
     head:[
         [
             "link",
