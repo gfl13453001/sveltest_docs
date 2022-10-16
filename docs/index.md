@@ -13,7 +13,7 @@ hero:
       link: /fingerpost/index
     - theme: alt
       text: GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/sveltest-Team/sveltest
       
 
 features:
