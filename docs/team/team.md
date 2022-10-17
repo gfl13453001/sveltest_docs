@@ -13,11 +13,11 @@ import {
 
 const members = [
   {
-    avatar: './assets/1.png',
+    avatar: './1.png',
     name: '子 夜',
-    title: '一名正在从事测试的背锅侠',
+    title: '测试工程师中的背锅侠',
     links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
+      { icon: 'github', link: 'https://github.com/gfl13453001' },
      // { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
     ]
   },

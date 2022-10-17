@@ -118,8 +118,6 @@ if __name__ == '__main__':
     main()
 ```
 
-![img](assets/image.png)
-
 
 
 ## 元组或列表进行数据驱动
@@ -203,7 +201,7 @@ test_data_2_数据驱动测试2 (__main__.BaiduTestUi)   PASS
 
 使用上面方法进行多用例多数据进行测试、这里注意使用`@extends(data)`进行驱动测试、会将索引为0的元素用例作为测试用例名称、并且在使用html格式的测试报告中也会显示该名称。
 
-![img](assets/image.png)
+
 
 
 
@@ -211,7 +209,7 @@ test_data_2_数据驱动测试2 (__main__.BaiduTestUi)   PASS
 
 使用字典类型进行测试就需要使用 `serialization()`装饰器与其上面的装饰器一样仅支持字典类型数据、否则会抛出异常。
 
-![img](assets/image.png)
+
 
 简单示例：
 
@@ -296,7 +294,6 @@ test_data_测试002 (__main__.BaiduTestUi)   PASS
 
 ## 文件数据参数化
 
-![img](assets/image.png)
 
 ### json 文件
 
