@@ -45,6 +45,7 @@ export default {
                  {text: '配置文件', link: '/unit/settings_conf',},
                  {text: '发送钉钉', link: '/basics/dingtalk',},
                  {text: '发送邮件', link: '/basics/email',},
+                           {text: '驱动管理', link: '/basics/driver_management',},
 
 
             ]
@@ -79,6 +80,7 @@ export default {
                 {text: '配置文件', link: '/unit/settings_conf',},
                   {text: '发送钉钉', link: '/basics/dingtalk',},
                  {text: '发送邮件', link: '/basics/email',},
+                 {text: '驱动管理', link: '/basics/driver_management',},
 
             ]
         },
